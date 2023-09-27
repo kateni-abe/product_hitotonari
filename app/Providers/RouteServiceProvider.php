@@ -17,6 +17,8 @@ class RouteServiceProvider extends ServiceProvider
      *
      * @var string
      */
+
+
     public const HOME = '/dashboard';
 
     /**
@@ -38,3 +40,5 @@ class RouteServiceProvider extends ServiceProvider
         });
     }
 }
+
+
